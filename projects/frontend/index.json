@@ -1,358 +1,892 @@
 [
     {
         "slug": "bin2dec-app.min.json",
-        "name": "Bin2Dec"
+        "name": "Bin2Dec",
+        "difficulty": "easy",
+        "skills": [
+            "HTML5",
+            "CSS3",
+            "JavaScript"
+        ]
     },
     {
         "slug": "border-radius-previewer.min.json",
-        "name": "Border-radius Previewer"
+        "name": "Border-radius Previewer",
+        "difficulty": "easy",
+        "skills": [
+            "HTML5",
+            "CSS3",
+            "JavaScript"
+        ]
     },
     {
         "slug": "csv2json-app.min.json",
-        "name": "CSV2JSON"
+        "name": "CSV2JSON",
+        "difficulty": "easy",
+        "skills": [
+            "HTML5",
+            "CSS3",
+            "JavaScript"
+        ]
     },
     {
         "slug": "calculator-app.min.json",
-        "name": "Calculator"
+        "name": "Calculator",
+        "difficulty": "easy",
+        "skills": [
+            "HTML5",
+            "CSS3",
+            "JavaScript"
+        ]
     },
     {
         "slug": "calendar-app.min.json",
-        "name": "My calendar"
+        "name": "My calendar",
+        "difficulty": "hard",
+        "skills": [
+            "HTML5",
+            "CSS3",
+            "JavaScript"
+        ]
     },
     {
         "slug": "cause-effect-app.min.json",
-        "name": "CauseEffect"
+        "name": "CauseEffect",
+        "difficulty": "easy",
+        "skills": [
+            "HTML5",
+            "CSS3",
+            "JavaScript"
+        ]
     },
     {
         "slug": "christmas-lights-app.min.json",
-        "name": "Christmas Lights"
+        "name": "Christmas Lights",
+        "difficulty": "easy",
+        "skills": [
+            "HTML5",
+            "CSS3",
+            "JavaScript"
+        ]
     },
     {
         "slug": "color-cycle-app.min.json",
-        "name": "ColorCycle"
+        "name": "ColorCycle",
+        "difficulty": "easy",
+        "skills": [
+            "HTML5",
+            "CSS3",
+            "JavaScript"
+        ]
     },
     {
         "slug": "countdown-timer-app.min.json",
-        "name": "Countdown Timer"
+        "name": "Countdown Timer",
+        "difficulty": "easy",
+        "skills": [
+            "HTML5",
+            "CSS3",
+            "JavaScript"
+        ]
     },
     {
         "slug": "dollars-to-cents-app.min.json",
-        "name": "Dollars To Cents"
+        "name": "Dollars To Cents",
+        "difficulty": "easy",
+        "skills": [
+            "HTML5",
+            "CSS3",
+            "JavaScript"
+        ]
     },
     {
         "slug": "dynamic-cssvar-app.min.json",
-        "name": "Dynamic CSS Variables"
+        "name": "Dynamic CSS Variables",
+        "difficulty": "easy",
+        "skills": [
+            "HTML5",
+            "CSS3",
+            "JavaScript"
+        ]
     },
     {
         "slug": "first-db-app.min.json",
-        "name": "Your First DB App"
+        "name": "Your First DB App",
+        "difficulty": "easy",
+        "skills": [
+            "HTML5",
+            "CSS3",
+            "JavaScript"
+        ]
     },
     {
         "slug": "flip-image-app.min.json",
-        "name": "FlipImage"
+        "name": "FlipImage",
+        "difficulty": "easy",
+        "skills": [
+            "HTML5",
+            "CSS3",
+            "JavaScript"
+        ]
     },
     {
         "slug": "github-status-app.min.json",
-        "name": "GitHub Status"
+        "name": "GitHub Status",
+        "difficulty": "easy",
+        "skills": [
+            "HTML5",
+            "CSS3",
+            "JavaScript"
+        ]
     },
     {
         "slug": "hello-app.min.json",
-        "name": "Hello"
+        "name": "Hello",
+        "difficulty": "easy",
+        "skills": [
+            "HTML5",
+            "CSS3",
+            "JavaScript"
+        ]
     },
     {
         "slug": "iot-mailbox-app.min.json",
-        "name": "IOT Mailbox Simulator"
+        "name": "IOT Mailbox Simulator",
+        "difficulty": "easy",
+        "skills": [
+            "HTML5",
+            "CSS3",
+            "JavaScript"
+        ]
     },
     {
         "slug": "json2csv-app.min.json",
-        "name": "JSON2CSV"
+        "name": "JSON2CSV",
+        "difficulty": "easy",
+        "skills": [
+            "HTML5",
+            "CSS3",
+            "JavaScript"
+        ]
     },
     {
         "slug": "javascript-validation-with-regex.min.json",
-        "name": "Javascript Validation With Regex"
+        "name": "Javascript Validation With Regex",
+        "difficulty": "easy",
+        "skills": [
+            "HTML5",
+            "CSS3",
+            "JavaScript"
+        ]
     },
     {
         "slug": "key-value-app.min.json",
-        "name": "Key Value"
+        "name": "Key Value",
+        "difficulty": "easy",
+        "skills": [
+            "HTML5",
+            "CSS3",
+            "JavaScript"
+        ]
     },
     {
         "slug": "lorem-ipsum-generator.min.json",
-        "name": "Lorem Ipsum Generator"
+        "name": "Lorem Ipsum Generator",
+        "difficulty": "easy",
+        "skills": [
+            "HTML5",
+            "CSS3",
+            "JavaScript"
+        ]
     },
     {
         "slug": "notes-app.min.json",
-        "name": "Notes App"
+        "name": "Notes App",
+        "difficulty": "easy",
+        "skills": [
+            "HTML5",
+            "CSS3",
+            "JavaScript"
+        ]
     },
     {
         "slug": "pearson-regression-app.min.json",
-        "name": "Pearson Regression"
+        "name": "Pearson Regression",
+        "difficulty": "easy",
+        "skills": [
+            "HTML5",
+            "CSS3",
+            "JavaScript"
+        ]
     },
     {
         "slug": "pomodoro-clock.min.json",
-        "name": "Pomodoro Clock"
+        "name": "Pomodoro Clock",
+        "difficulty": "easy",
+        "skills": [
+            "HTML5",
+            "CSS3",
+            "JavaScript"
+        ]
     },
     {
         "slug": "product-landing-page.min.json",
-        "name": "Product Landing Page"
+        "name": "Product Landing Page",
+        "difficulty": "easy",
+        "skills": [
+            "HTML5",
+            "CSS3",
+            "JavaScript"
+        ]
     },
     {
         "slug": "quiz-app.min.json",
-        "name": "Quiz App"
+        "name": "Quiz App",
+        "difficulty": "easy",
+        "skills": [
+            "HTML5",
+            "CSS3",
+            "JavaScript"
+        ]
     },
     {
         "slug": "random-meal-generator.min.json",
-        "name": "Random Meal Generator"
+        "name": "Random Meal Generator",
+        "difficulty": "easy",
+        "skills": [
+            "HTML5",
+            "CSS3",
+            "JavaScript"
+        ]
     },
     {
         "slug": "random-number-generator.min.json",
-        "name": "Random-Number-Generator"
+        "name": "Random-Number-Generator",
+        "difficulty": "easy",
+        "skills": [
+            "HTML5",
+            "CSS3",
+            "JavaScript"
+        ]
     },
     {
         "slug": "recipe-app.min.json",
-        "name": "Recipe"
+        "name": "Recipe",
+        "difficulty": "easy",
+        "skills": [
+            "HTML5",
+            "CSS3",
+            "JavaScript"
+        ]
     },
     {
         "slug": "roman-to-decimal-converter.min.json",
-        "name": "Roman to Decimal numbers Converter"
+        "name": "Roman to Decimal numbers Converter",
+        "difficulty": "easy",
+        "skills": [
+            "HTML5",
+            "CSS3",
+            "JavaScript"
+        ]
     },
     {
         "slug": "slider-design.min.json",
-        "name": "Slider Design"
+        "name": "Slider Design",
+        "difficulty": "easy",
+        "skills": [
+            "HTML5",
+            "CSS3",
+            "JavaScript"
+        ]
     },
     {
         "slug": "stopwatch-app.min.json",
-        "name": "Stopwatch App"
+        "name": "Stopwatch App",
+        "difficulty": "easy",
+        "skills": [
+            "HTML5",
+            "CSS3",
+            "JavaScript"
+        ]
     },
     {
         "slug": "true-or-false-app.min.json",
-        "name": "TrueOrFalse"
+        "name": "TrueOrFalse",
+        "difficulty": "easy",
+        "skills": [
+            "HTML5",
+            "CSS3",
+            "JavaScript"
+        ]
     },
     {
         "slug": "vigenere-cipher.min.json",
-        "name": "Vigenere Cipher"
+        "name": "Vigenere Cipher",
+        "difficulty": "easy",
+        "skills": [
+            "HTML5",
+            "CSS3",
+            "JavaScript"
+        ]
     },
     {
         "slug": "weather-app.min.json",
-        "name": "Weather App"
+        "name": "Weather App",
+        "difficulty": "easy",
+        "skills": [
+            "HTML5",
+            "CSS3",
+            "JavaScript"
+        ]
     },
     {
         "slug": "windchill-app.min.json",
-        "name": "Windchill"
+        "name": "Windchill",
+        "difficulty": "easy",
+        "skills": [
+            "HTML5",
+            "CSS3",
+            "JavaScript"
+        ]
     },
     {
         "slug": "word-frequency-app.min.json",
-        "name": "Word Frequency"
+        "name": "Word Frequency",
+        "difficulty": "easy",
+        "skills": [
+            "HTML5",
+            "CSS3",
+            "JavaScript"
+        ]
     },
     {
         "slug": "bit-masks-app.min.json",
-        "name": "Bit Masks"
+        "name": "Bit Masks",
+        "difficulty": "medium",
+        "skills": [
+            "HTML5",
+            "CSS3",
+            "JavaScript"
+        ]
     },
     {
         "slug": "book-finder-app.min.json",
-        "name": "Book Finder App"
+        "name": "Book Finder App",
+        "difficulty": "medium",
+        "skills": [
+            "HTML5",
+            "CSS3",
+            "JavaScript"
+        ]
     },
     {
         "slug": "calculator-cli.min.json",
-        "name": "Calculator CLI"
+        "name": "Calculator CLI",
+        "difficulty": "medium",
+        "skills": [
+            "HTML5",
+            "CSS3",
+            "JavaScript"
+        ]
     },
     {
         "slug": "card-memory-game.min.json",
-        "name": "Card-Memory-Game"
+        "name": "Card-Memory-Game",
+        "difficulty": "medium",
+        "skills": [
+            "HTML5",
+            "CSS3",
+            "JavaScript"
+        ]
     },
     {
         "slug": "charity-finder-app.min.json",
-        "name": "Charity Finder"
+        "name": "Charity Finder",
+        "difficulty": "medium",
+        "skills": [
+            "HTML5",
+            "CSS3",
+            "JavaScript"
+        ]
     },
     {
         "slug": "chrome-theme-extension.min.json",
-        "name": "Chrome Theme Extension"
+        "name": "Chrome Theme Extension",
+        "difficulty": "medium",
+        "skills": [
+            "HTML5",
+            "CSS3",
+            "JavaScript"
+        ]
     },
     {
         "slug": "drawing-app.min.json",
-        "name": "Drawing App"
+        "name": "Drawing App",
+        "difficulty": "medium",
+        "skills": [
+            "HTML5",
+            "CSS3",
+            "JavaScript"
+        ]
     },
     {
         "slug": "emoji-translator-app.min.json",
-        "name": "Emoji Translator"
+        "name": "Emoji Translator",
+        "difficulty": "medium",
+        "skills": [
+            "HTML5",
+            "CSS3",
+            "JavaScript"
+        ]
     },
     {
         "slug": "flashcards-app.min.json",
-        "name": "FlashCards"
+        "name": "FlashCards",
+        "difficulty": "medium",
+        "skills": [
+            "HTML5",
+            "CSS3",
+            "JavaScript"
+        ]
     },
     {
         "slug": "flip-art-app.min.json",
-        "name": "Flip Art"
+        "name": "Flip Art",
+        "difficulty": "medium",
+        "skills": [
+            "HTML5",
+            "CSS3",
+            "JavaScript"
+        ]
     },
     {
         "slug": "game-suggestion-app.min.json",
-        "name": "Game suggestion app"
+        "name": "Game suggestion app",
+        "difficulty": "medium",
+        "skills": [
+            "HTML5",
+            "CSS3",
+            "JavaScript"
+        ]
     },
     {
         "slug": "github-profiles.min.json",
-        "name": "GitHub Profiles"
+        "name": "GitHub Profiles",
+        "difficulty": "medium",
+        "skills": [
+            "HTML5",
+            "CSS3",
+            "JavaScript"
+        ]
     },
     {
         "slug": "highstriker-game.min.json",
-        "name": "HighStriker"
+        "name": "HighStriker",
+        "difficulty": "medium",
+        "skills": [
+            "HTML5",
+            "CSS3",
+            "JavaScript"
+        ]
     },
     {
         "slug": "image-scaner.min.json",
-        "name": "Image Scanner"
+        "name": "Image Scanner",
+        "difficulty": "medium",
+        "skills": [
+            "HTML5",
+            "CSS3",
+            "JavaScript"
+        ]
     },
     {
         "slug": "markdown-previewer.min.json",
-        "name": "Markdown Previewer"
+        "name": "Markdown Previewer",
+        "difficulty": "medium",
+        "skills": [
+            "HTML5",
+            "CSS3",
+            "JavaScript"
+        ]
     },
     {
         "slug": "markdown-table-generator.min.json",
-        "name": "Markdown Table Generator"
+        "name": "Markdown Table Generator",
+        "difficulty": "medium",
+        "skills": [
+            "HTML5",
+            "CSS3",
+            "JavaScript"
+        ]
     },
     {
         "slug": "meme-generator-app.min.json",
-        "name": "Meme Generator App"
+        "name": "Meme Generator App",
+        "difficulty": "medium",
+        "skills": [
+            "HTML5",
+            "CSS3",
+            "JavaScript"
+        ]
     },
     {
         "slug": "name-generator.min.json",
-        "name": "Name generation using Recurrent Neural Networks"
+        "name": "Name generation using Recurrent Neural Networks",
+        "difficulty": "medium",
+        "skills": [
+            "HTML5",
+            "CSS3",
+            "JavaScript"
+        ]
     },
     {
         "slug": "password-generator.min.json",
-        "name": "Password Generator"
+        "name": "Password Generator",
+        "difficulty": "medium",
+        "skills": [
+            "HTML5",
+            "CSS3",
+            "JavaScript"
+        ]
     },
     {
         "slug": "podcast-directory-app.min.json",
-        "name": "Podcast Directory"
+        "name": "Podcast Directory",
+        "difficulty": "medium",
+        "skills": [
+            "HTML5",
+            "CSS3",
+            "JavaScript"
+        ]
     },
     {
         "slug": "qrcode-badge-app.min.json",
-        "name": "QRCode Badge Generator"
+        "name": "QRCode Badge Generator",
+        "difficulty": "medium",
+        "skills": [
+            "HTML5",
+            "CSS3",
+            "JavaScript"
+        ]
     },
     {
         "slug": "regexp-helper-app.min.json",
-        "name": "Regular Expression Helper"
+        "name": "Regular Expression Helper",
+        "difficulty": "medium",
+        "skills": [
+            "HTML5",
+            "CSS3",
+            "JavaScript"
+        ]
     },
     {
         "slug": "sales-db-app.min.json",
-        "name": "Sales Reciepts"
+        "name": "Sales Reciepts",
+        "difficulty": "medium",
+        "skills": [
+            "HTML5",
+            "CSS3",
+            "JavaScript"
+        ]
     },
     {
         "slug": "simple-online-store.min.json",
-        "name": "Simple Online Store"
+        "name": "Simple Online Store",
+        "difficulty": "medium",
+        "skills": [
+            "HTML5",
+            "CSS3",
+            "JavaScript"
+        ]
     },
     {
         "slug": "sports-bracket-generator.min.json",
-        "name": "Sports Bracket Generator"
+        "name": "Sports Bracket Generator",
+        "difficulty": "medium",
+        "skills": [
+            "HTML5",
+            "CSS3",
+            "JavaScript"
+        ]
     },
     {
         "slug": "string-art.min.json",
-        "name": "StringArt"
+        "name": "StringArt",
+        "difficulty": "medium",
+        "skills": [
+            "HTML5",
+            "CSS3",
+            "JavaScript"
+        ]
     },
     {
         "slug": "this-or-that-game.min.json",
-        "name": "This or That Game"
+        "name": "This or That Game",
+        "difficulty": "medium",
+        "skills": [
+            "HTML5",
+            "CSS3",
+            "JavaScript"
+        ]
     },
     {
         "slug": "timezone-slackbot.min.json",
-        "name": "Timezone Slackbot - TZ"
+        "name": "Timezone Slackbot - TZ",
+        "difficulty": "medium",
+        "skills": [
+            "HTML5",
+            "CSS3",
+            "JavaScript"
+        ]
     },
     {
         "slug": "to-do-app.min.json",
-        "name": "To-Do App"
+        "name": "To-Do App",
+        "difficulty": "medium",
+        "skills": [
+            "HTML5",
+            "CSS3",
+            "JavaScript"
+        ]
     },
     {
         "slug": "typing-practice-app.min.json",
-        "name": "Typing Practice"
+        "name": "Typing Practice",
+        "difficulty": "medium",
+        "skills": [
+            "HTML5",
+            "CSS3",
+            "JavaScript"
+        ]
     },
     {
         "slug": "voting-app.min.json",
-        "name": "Voting App"
+        "name": "Voting App",
+        "difficulty": "medium",
+        "skills": [
+            "HTML5",
+            "CSS3",
+            "JavaScript"
+        ]
     },
     {
         "slug": "math-editor.min.json",
-        "name": "Math Formula Editor"
+        "name": "Math Formula Editor",
+        "difficulty": "medium",
+        "skills": [
+            "HTML5",
+            "CSS3",
+            "JavaScript"
+        ]
     },
     {
         "slug": "battleship-bot.min.json",
-        "name": "Battleship Bot"
+        "name": "Battleship Bot",
+        "difficulty": "hard",
+        "skills": [
+            "HTML5",
+            "CSS3",
+            "JavaScript"
+        ]
     },
     {
         "slug": "battleship-game-engine.min.json",
-        "name": "Battleship Game Engine"
+        "name": "Battleship Game Engine",
+        "difficulty": "hard",
+        "skills": [
+            "HTML5",
+            "CSS3",
+            "JavaScript"
+        ]
     },
     {
         "slug": "boole-bot-game.min.json",
-        "name": "Boole Bots Game"
+        "name": "Boole Bots Game",
+        "difficulty": "hard",
+        "skills": [
+            "HTML5",
+            "CSS3",
+            "JavaScript"
+        ]
     },
     {
         "slug": "bug-race-game.min.json",
-        "name": "Bug Race"
+        "name": "Bug Race",
+        "difficulty": "hard",
+        "skills": [
+            "HTML5",
+            "CSS3",
+            "JavaScript"
+        ]
     },
     {
         "slug": "calorie-counter-app.min.json",
-        "name": "Calorie Counter"
+        "name": "Calorie Counter",
+        "difficulty": "hard",
+        "skills": [
+            "HTML5",
+            "CSS3",
+            "JavaScript"
+        ]
     },
     {
         "slug": "chat-app.min.json",
-        "name": "Chat App"
+        "name": "Chat App",
+        "difficulty": "hard",
+        "skills": [
+            "HTML5",
+            "CSS3",
+            "JavaScript"
+        ]
     },
     {
         "slug": "contribution-tracker-app.min.json",
-        "name": "Contribution Tracker"
+        "name": "Contribution Tracker",
+        "difficulty": "hard",
+        "skills": [
+            "HTML5",
+            "CSS3",
+            "JavaScript"
+        ]
     },
     {
         "slug": "elevator-app.min.json",
-        "name": "Elevator"
+        "name": "Elevator",
+        "difficulty": "hard",
+        "skills": [
+            "HTML5",
+            "CSS3",
+            "JavaScript"
+        ]
     },
     {
         "slug": "fastfood-app.min.json",
-        "name": "Fast Food Simulator App"
+        "name": "Fast Food Simulator App",
+        "difficulty": "hard",
+        "skills": [
+            "HTML5",
+            "CSS3",
+            "JavaScript"
+        ]
     },
     {
         "slug": "github-timeline-app.min.json",
-        "name": "GitHub Timeline"
+        "name": "GitHub Timeline",
+        "difficulty": "hard",
+        "skills": [
+            "HTML5",
+            "CSS3",
+            "JavaScript"
+        ]
     },
     {
         "slug": "gittweet-app.min.json",
-        "name": "GitTweet"
+        "name": "GitTweet",
+        "difficulty": "hard",
+        "skills": [
+            "HTML5",
+            "CSS3",
+            "JavaScript"
+        ]
     },
     {
         "slug": "instagram-clone-app.min.json",
-        "name": "Instagram Clone"
+        "name": "Instagram Clone",
+        "difficulty": "hard",
+        "skills": [
+            "HTML5",
+            "CSS3",
+            "JavaScript"
+        ]
     },
     {
         "slug": "kudos-slackbot.min.json",
-        "name": "Kudo's Slackbot"
+        "name": "Kudo's Slackbot",
+        "difficulty": "hard",
+        "skills": [
+            "HTML5",
+            "CSS3",
+            "JavaScript"
+        ]
     },
     {
         "slug": "movie-app.min.json",
-        "name": "Movie Database App"
+        "name": "Movie Database App",
+        "difficulty": "hard",
+        "skills": [
+            "HTML5",
+            "CSS3",
+            "JavaScript"
+        ]
     },
     {
         "slug": "mypodcast-library-app.min.json",
-        "name": "My Podcast Library"
+        "name": "My Podcast Library",
+        "difficulty": "hard",
+        "skills": [
+            "HTML5",
+            "CSS3",
+            "JavaScript"
+        ]
     },
     {
         "slug": "nasa-exoplanet-query.min.json",
-        "name": "NASA Exoplanet Query"
+        "name": "NASA Exoplanet Query",
+        "difficulty": "hard",
+        "skills": [
+            "HTML5",
+            "CSS3",
+            "JavaScript"
+        ]
     },
     {
         "slug": "shell-game.min.json",
-        "name": "Shell Game"
+        "name": "Shell Game",
+        "difficulty": "hard",
+        "skills": [
+            "HTML5",
+            "CSS3",
+            "JavaScript"
+        ]
     },
     {
         "slug": "shuffle-deck-app.min.json",
-        "name": "Shuffle Card Deck"
+        "name": "Shuffle Card Deck",
+        "difficulty": "hard",
+        "skills": [
+            "HTML5",
+            "CSS3",
+            "JavaScript"
+        ]
     },
     {
         "slug": "slack-archiver.min.json",
-        "name": "Slack Archiver"
+        "name": "Slack Archiver",
+        "difficulty": "hard",
+        "skills": [
+            "HTML5",
+            "CSS3",
+            "JavaScript"
+        ]
     },
     {
         "slug": "spellit-app.min.json",
-        "name": "Spell-It"
+        "name": "Spell-It",
+        "difficulty": "hard",
+        "skills": [
+            "HTML5",
+            "CSS3",
+            "JavaScript"
+        ]
     },
     {
         "slug": "survey-app.min.json",
-        "name": "Survey App"
+        "name": "Survey App",
+        "difficulty": "hard",
+        "skills": [
+            "HTML5",
+            "CSS3",
+            "JavaScript"
+        ]
     }
 ]
