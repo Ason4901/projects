@@ -6,6 +6,7 @@
         "JavaScript"
     ],
     "description": "Surveys are a valuable part of any developers toolbox. They are useful for getting feedback from your users on a variety of topics including application satisfaction, requirements, upcoming needs, issues, priorities, and just plain aggravations to name a few. The Survey app gives you the opportunity to learn by developing a full-featured app that will you can add to your toolbox. It provides the ability to define a survey, allow users to respond within a predefined timeframe, and tabulate and present results. Users of this app are divided into two distinct roles, each having different requirements: - _Survey Coordinators_ define and conduct surveys. This is an administrative - function not available to normal users. - _Survey Respondents_ Complete surveys and view results. They have no - administrative privileges within the app.  Commercial survey tools include distribution functionality that mass emails surveys to Survey Respondents. For simplicity, this app assumes that surveys open for responses will be accessed from the app's web page. ",
+    "desktopImage": "<add a project image here please :)>",
     "level": "hard",
     "credits": "florinpop17/app-ideas",
     "checklist": [

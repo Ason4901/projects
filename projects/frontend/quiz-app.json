@@ -6,6 +6,7 @@
         "JavaScript"
     ],
     "description": "Practice and test your knowledge by answering questions in a quiz application. As a developer you can create a quiz application for testing coding skills of other developers. (HTML, CSS, JavaScript, Python, PHP, etc...) ",
+    "desktopImage": "<add a project image here please :)>",
     "level": "easy",
     "credits": "florinpop17/app-ideas",
     "checklist": [

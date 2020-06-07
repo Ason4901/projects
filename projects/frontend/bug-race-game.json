@@ -6,6 +6,7 @@
         "JavaScript"
     ],
     "description": "In this project you will test your animation skills by creating a game that lets the user race bugs while trying to guess the winner. As part of this you'll need to provide the user with various controls that allow the game to be customized including bug icons, assigning names to the bugs, making a choice of who the winner might be, and bug speed. ",
+    "desktopImage": "<add a project image here please :)>",
     "level": "hard",
     "credits": "florinpop17/app-ideas",
     "checklist": [

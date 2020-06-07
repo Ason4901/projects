@@ -6,6 +6,7 @@
         "JavaScript"
     ],
     "description": "In the [GitHub Timeline](./GitHub-Timeline-App.md) app you used GitHub's API to create a timeline of your repos. What could be more powerful that using an API such as this? Why using two API's, of course. The goal of GitTweet is to create a GitHub app to tweet when a pull request is created for one of your repos.  ",
+    "desktopImage": "<add a project image here please :)>",
     "level": "hard",
     "credits": "florinpop17/app-ideas",
     "checklist": [

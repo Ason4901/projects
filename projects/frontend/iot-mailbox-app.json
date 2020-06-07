@@ -6,6 +6,7 @@
         "JavaScript"
     ],
     "description": "The objective of the IOT Mailbox Simulator is to mimic how an Internet of Things (IOT) enabled physical mailbox might be used to notify you when \"snail\" mail has arrived. In doing so it will provide you with experience using callbacks to communicate state between different components of an app that are dependent on one another. ",
+    "desktopImage": "<add a project image here please :)>",
     "level": "easy",
     "credits": "florinpop17/app-ideas",
     "checklist": [

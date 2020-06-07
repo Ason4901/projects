@@ -6,6 +6,7 @@
         "JavaScript"
     ],
     "description": "A Shell game is a classic gambling game that dates back to ancient Greece. Playing it requires three shells, a pea, hand dexterity by the operator, and  keen observation skills on the part of the player. It's also a classic con game since its easy for the operator to swindle the player. Thank goodness the latter isn't our intent with this app. This Shell game is intended to provide a graphical interface to the classical shell game and to provide the player with an honest game to play. Our game draws three shells on the canvas along with the pea, moves the pea under one, of the shells, and shuffles the shells for a specific interval of time. The user must then click on the shell she thinks the pea is hidden under. The user is allowed to continue guessing until the pea is located. ",
+    "desktopImage": "<add a project image here please :)>",
     "level": "hard",
     "credits": "florinpop17/app-ideas",
     "checklist": [

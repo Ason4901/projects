@@ -6,6 +6,7 @@
         "JavaScript"
     ],
     "description": "Understanding database concepts and how to use them in your applications is knowledge all developers need to acquire. The objective of Your First DB App is to provide a gentle introduction to database concepts and learning one use case for databases in a frontend app. So, did you know that modern browsers have a database management system built into them? IndexedDB is built into most modern browsers and provides developers with basic database features, transaction support, and client-side cross-session persistance. ",
+    "desktopImage": "<add a project image here please :)>",
     "level": "easy",
     "credits": "florinpop17/app-ideas",
     "checklist": [

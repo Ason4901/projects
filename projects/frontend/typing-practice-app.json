@@ -6,6 +6,7 @@
         "JavaScript"
     ],
     "description": "Some things are so obvious they can be easily overlooked. As a developer  your ability to type quickly and accurately is one factor that influences  your development productivity. The objective of the Typing Practice app is to provide you with typing practice along with metrics to allow you to measure your progress. Typing practice displays a word which you must then type within a specific interval of time. If the word is incorrectly typed it stays on screen and the time interval remains the same. But when the word is correctly  typed a new word is displayed and the time interval is slightly reduced. Hopefully, this repetitive practice will help you improve both your typing speed and accuracy. ",
+    "desktopImage": "<add a project image here please :)>",
     "level": "medium",
     "credits": "florinpop17/app-ideas",
     "checklist": [

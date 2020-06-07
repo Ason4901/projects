@@ -6,6 +6,7 @@
         "JavaScript"
     ],
     "description": "It's tough to think of a world without elevators. Especially if you have to walk up and down 20 flights of stairs each day. But, if you think about it elevators were one of the original implementations of events and event handlers long before web applications came on the scene. The objective of the Elevator app is to simulate the operation of an elevator and more importantly, how to handle the events generated when the buildings occupants use it. This app simulates occupants calling for an elevator from any floor and pressing the buttons inside the elevator to indicate the floor they wish to go to. ",
+    "desktopImage": "<add a project image here please :)>",
     "level": "hard",
     "credits": "florinpop17/app-ideas",
     "checklist": [

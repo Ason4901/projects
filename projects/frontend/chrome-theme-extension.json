@@ -6,6 +6,7 @@
         "JavaScript"
     ],
     "description": "Build your own customized chrome theme extension. You can also add night light (also known as blue light filter) feature that will automatically turn on during the night time so that user's eye won't get stressed while coding whole night or binge watching netflix 😛 - How chrome extension work(behind the scenes). - Basic understanding of HTML/CSS, JS, JSON is required.  ",
+    "desktopImage": "<add a project image here please :)>",
     "level": "medium",
     "credits": "florinpop17/app-ideas",
     "checklist": [

@@ -6,6 +6,7 @@
         "JavaScript"
     ],
     "description": "It's important for Web Developers to understand the basics of manipulating images since rich web applications rely on images to add value to the user interface and user experience (UI/UX). FlipImage explores one aspect of image manipulation - image rotation. This app displays a square pane containing a single image presented in a 2x2 matrix. Using a set of up, down, left, and right arrows adjacent to each of the images the user may flip them vertically or horizontally. You must only use native HTML, CSS, and Javascript to implement this app. Image packages and libraries are not allowed. ",
+    "desktopImage": "<add a project image here please :)>",
     "level": "easy",
     "credits": "florinpop17/app-ideas",
     "checklist": [

@@ -6,6 +6,7 @@
         "JavaScript"
     ],
     "description": "Find your next movie or create your watchlist with this App. It include reviews, rating, actors and anything you need to know about the movie. - This application will help users find their next movie to watch by showing helpful stats - Resource needed for the project is movie api, examples include Imdb, MovieDB etc.  ",
+    "desktopImage": "<add a project image here please :)>",
     "level": "hard",
     "credits": "florinpop17/app-ideas",
     "checklist": [

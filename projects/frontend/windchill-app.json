@@ -6,6 +6,7 @@
         "JavaScript"
     ],
     "description": "Windchill combines the actual temperature with the wind speed to calculate the windchill factor, or what the perceived temperature is versus the actual temperature. ",
+    "desktopImage": "<add a project image here please :)>",
     "level": "easy",
     "credits": "florinpop17/app-ideas",
     "checklist": [

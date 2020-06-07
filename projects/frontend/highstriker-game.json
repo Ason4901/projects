@@ -6,6 +6,7 @@
         "JavaScript"
     ],
     "description": "Carnivals and circuses have featured the HighStriker sideshow game since at least the 1930's. This game consists of a tower with a bell mounted at the top and a levered platform at the bottom. When the levered platform is struck with a mallet it causes a puck to travel up a track attached to the tower.  When the platform is struck the puck travels vertically up the track. If hit hard enough the puck will ring the bell, signifying a winner. The objective of the Highstriker app is to simulate this carnival game. Instead of physical force to move the puck up the track use an algorithm  of your own design and a random number generator to determine the puck's speed and the distance it travels. ",
+    "desktopImage": "<add a project image here please :)>",
     "level": "medium",
     "credits": "florinpop17/app-ideas",
     "checklist": [

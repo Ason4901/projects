@@ -6,6 +6,7 @@
         "JavaScript"
     ],
     "description": "Many developers have found that adding animation to an application is a useful technique that adds impact to the UI, to make it more appealing to its users, and to explain complex subject matter. But, as a developer how do you create these and how do you know what images make effective animations? The objective of the Flip Art app is to address both of these needs by providing a simple way to collect and arrange a set of images into an animated sequence that can be replayed and adjusted to achieve the desired impact and effect. ",
+    "desktopImage": "<add a project image here please :)>",
     "level": "medium",
     "credits": "florinpop17/app-ideas",
     "checklist": [

@@ -6,6 +6,7 @@
         "JavaScript"
     ],
     "description": "An app (desktop or web) which you can use to edit different kinds of math formulas. The app will be particularry useful for doing your math homework digitally. The app will probably use a math markup system such as LaTeX. ",
+    "desktopImage": "<add a project image here please :)>",
     "level": "medium",
     "credits": "florinpop17/app-ideas",
     "checklist": [

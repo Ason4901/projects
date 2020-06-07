@@ -6,6 +6,7 @@
         "JavaScript"
     ],
     "description": "Something every developer needs to clearly understand is the result of conditional expressions like `x === y`. This is a bit more involved for Javascript developers who must also understand the concept of _truthiness_. TrueOrFalse helps by displaying the result when a conditional operator is applied to two values. Users can use this to test their knowledge and explore edge cases. The two values and the conditional operator are entered by the user and the result to be displayed will be TRUE or FALSE. The implementation must not use the `eval()` function to generate the result of the conditional. ",
+    "desktopImage": "<add a project image here please :)>",
     "level": "easy",
     "credits": "florinpop17/app-ideas",
     "checklist": [

@@ -6,6 +6,7 @@
         "JavaScript"
     ],
     "description": "A game in which the user can select their favorite image between two choices. **Note**: `image`s - might be dogs (as in the example below), cats, cars, houses, pretty much anything. ",
+    "desktopImage": "<add a project image here please :)>",
     "level": "medium",
     "credits": "florinpop17/app-ideas",
     "checklist": [

@@ -6,6 +6,7 @@
         "JavaScript"
     ],
     "description": "Real-time chat interface where multiple users can interact with each other by sending messages. As a MVP(Minimum Viable Product) you can focus on building the Chat interface. Real-time functionality can be added later (the bonus features). ",
+    "desktopImage": "<add a project image here please :)>",
     "level": "hard",
     "credits": "florinpop17/app-ideas",
     "checklist": [

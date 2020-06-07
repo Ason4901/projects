@@ -6,6 +6,7 @@
         "JavaScript"
     ],
     "description": "Generate a random number between a range of defined minimun and maximun. The generator allows the user to use the random property for purposes like games that contains some kind of lottary or for statistics. ",
+    "desktopImage": "<add a project image here please :)>",
     "level": "easy",
     "credits": "florinpop17/app-ideas",
     "checklist": [

@@ -6,6 +6,7 @@
         "JavaScript"
     ],
     "description": "A weather application to get the temperature, weather condition and whether it is day or night of a particular city using `accuweather`. A free weather api. ",
+    "desktopImage": "<add a project image here please :)>",
     "level": "easy",
     "credits": "florinpop17/app-ideas",
     "checklist": [

@@ -6,6 +6,7 @@
         "JavaScript"
     ],
     "description": "Fast Food simulates the operation of a simple take-away restaurant and is designed to help the developer put his or her knowledge of Promises and SOLID design principles to work. This app simulates customers of a take-away restaurant placing orders and and waiting for them to be prepared and delivered to a pickup counter. After placing the order the customer waits on the order to be announced before picking it up and proceeding to the dining area. The user stories that make up this app center around four distinct roles: - User - the end user using the application - Customer - the simulated Customer - Order Taker - the simulated Order Taker - Cook - the simulated Cook - Server - the simulated Server  This app has quite a few User Stories. Don't be overwhelmed though. Take the time to sketch out not just the UI, but how the different actors (roles) interact and incrementally build the app following Agile principles. ",
+    "desktopImage": "<add a project image here please :)>",
     "level": "hard",
     "credits": "florinpop17/app-ideas",
     "checklist": [

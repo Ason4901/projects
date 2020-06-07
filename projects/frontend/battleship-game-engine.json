@@ -6,6 +6,7 @@
         "JavaScript"
     ],
     "description": "Battleship Game Engine (BGE) implements the classic turn-based board game as a package that's separated from any presentation layer. This is a type of architectural pattern that useful in many application since it allows any number of apps to utilize the same service. The BGE itself is invoked through a series of function calls rather than through directly coupled end user actions. In this respect using the BGE is is similar to using an API or a series of routes exposed by a web server. This challenge requires that you develop the BGE and a very thin, text-based presentation layer for testing that's separate from the engine itself. Due to this the User Stories below are divided two sets - one for the BGE and one for the text-based presentation layer. BGE is responsible for maintaining game state. ",
+    "desktopImage": "<add a project image here please :)>",
     "level": "hard",
     "credits": "florinpop17/app-ideas",
     "checklist": [

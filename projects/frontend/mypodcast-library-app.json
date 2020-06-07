@@ -6,6 +6,7 @@
         "JavaScript"
     ],
     "description": "In the [GitHub Status](../1-Beginner/GitHub-Status-App.md) and [Podcast Directory](../2-Intermediate/Podcast-Directory-App.md) you learned what web scraping is and how you can use it as an alternative data source when API's and backend databases aren't available. The _My Podcast Library_ app merges your newfound knowledge of  web scraping with your frontend skills to extend the simple Podcast Directory app into something more complex and useful. The goal of _My Podcast Library_ is to build a more personalized library of your favorite podcasts and episodes. In this app you'll use [Puppeteer](https://github.com/GoogleChrome/puppeteer) and [Podbean](https://www.podbean.com) to create an app to maintain your personal library of podcasts. This project is described in detail by the following user stories, but feel free to use your imagination. ",
+    "desktopImage": "<add a project image here please :)>",
     "level": "hard",
     "credits": "florinpop17/app-ideas",
     "checklist": [

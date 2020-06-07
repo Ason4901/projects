@@ -6,6 +6,7 @@
         "JavaScript"
     ],
     "description": "Web apps acquire data in many ways. Through user input in web pages, through API's to backend systems, from files and databases, and sometimes by \"scraping\" websites. The objective of the GitHub Status app is to introduce you to one way to scrape information from another web site. GitHub Status uses the NPM Request package to retrieve the current GitHub site status from the [GitHub Status](https://www.githubstatus.com/) web site. The Request package allows websites to be retrieved not to a browser window, but as a JSON document that can be readily accessed by your code. Although this application specification relies heavily on Javascript, feel free to develop it using your language of choice! ",
+    "desktopImage": "<add a project image here please :)>",
     "level": "easy",
     "credits": "florinpop17/app-ideas",
     "checklist": [

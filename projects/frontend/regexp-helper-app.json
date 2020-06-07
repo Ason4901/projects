@@ -6,6 +6,7 @@
         "JavaScript"
     ],
     "description": "Regular Expressions should be a valuable part of any developers toolbox. They provide a concise way to describe a pattern that can be used to test, search,  match, replace, or split the contents of a  string. Regular Expressions provide functionality you might otherwise have to implement using loops and more lines of code. The Regular Expression Helper helps you learn more about Regular Expressions by building a useful tool you'll also be able to use to test expressions you use in your apps. ",
+    "desktopImage": "<add a project image here please :)>",
     "level": "medium",
     "credits": "florinpop17/app-ideas",
     "checklist": [

@@ -6,6 +6,7 @@
         "JavaScript"
     ],
     "description": "The classic To-Do application where a user can write down all the things he wants to accomplish. ",
+    "desktopImage": "<add a project image here please :)>",
     "level": "medium",
     "credits": "florinpop17/app-ideas",
     "checklist": [

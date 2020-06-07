@@ -6,6 +6,7 @@
         "JavaScript"
     ],
     "description": "In the [Product Landing Page](../1-Beginner/Product-Landing-Page.md) project you implemented a landing page to provide your users with information about a product and to hopefully increase your sites conversion rate. The goal of the Simple Online Store is to give your users the capability of selecting a product to purchase, viewing purchase information, adding it to an online shopping cart, and finally, actually purchasing the products in the shopping cart. ",
+    "desktopImage": "<add a project image here please :)>",
     "level": "medium",
     "credits": "florinpop17/app-ideas",
     "checklist": [

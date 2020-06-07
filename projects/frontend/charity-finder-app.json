@@ -6,6 +6,7 @@
         "JavaScript"
     ],
     "description": "With the Charity Finder app you'll not only get to refine your Web Developer skills, but you will also have an opportunity to see how you can do good. The objective of this app is to utilize the [Global Giving](https://www.globalgiving.org/) organizations API to provide your users with a list of global charities they can search to find a charity that matches their philanthropic interests. ",
+    "desktopImage": "<add a project image here please :)>",
     "level": "medium",
     "credits": "florinpop17/app-ideas",
     "checklist": [
