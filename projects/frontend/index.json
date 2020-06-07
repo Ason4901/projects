@@ -1,358 +1,358 @@
 [
     {
-        "slug": "bin2dec-app.json",
+        "slug": "bin2dec-app.min.json",
         "name": "Bin2Dec"
     },
     {
-        "slug": "border-radius-previewer.json",
+        "slug": "border-radius-previewer.min.json",
         "name": "Border-radius Previewer"
     },
     {
-        "slug": "csv2json-app.json",
+        "slug": "csv2json-app.min.json",
         "name": "CSV2JSON"
     },
     {
-        "slug": "calculator-app.json",
+        "slug": "calculator-app.min.json",
         "name": "Calculator"
     },
     {
-        "slug": "calendar-app.json",
+        "slug": "calendar-app.min.json",
         "name": "My calendar"
     },
     {
-        "slug": "cause-effect-app.json",
+        "slug": "cause-effect-app.min.json",
         "name": "CauseEffect"
     },
     {
-        "slug": "christmas-lights-app.json",
+        "slug": "christmas-lights-app.min.json",
         "name": "Christmas Lights"
     },
     {
-        "slug": "color-cycle-app.json",
+        "slug": "color-cycle-app.min.json",
         "name": "ColorCycle"
     },
     {
-        "slug": "countdown-timer-app.json",
+        "slug": "countdown-timer-app.min.json",
         "name": "Countdown Timer"
     },
     {
-        "slug": "dollars-to-cents-app.json",
+        "slug": "dollars-to-cents-app.min.json",
         "name": "Dollars To Cents"
     },
     {
-        "slug": "dynamic-cssvar-app.json",
+        "slug": "dynamic-cssvar-app.min.json",
         "name": "Dynamic CSS Variables"
     },
     {
-        "slug": "first-db-app.json",
+        "slug": "first-db-app.min.json",
         "name": "Your First DB App"
     },
     {
-        "slug": "flip-image-app.json",
+        "slug": "flip-image-app.min.json",
         "name": "FlipImage"
     },
     {
-        "slug": "github-status-app.json",
+        "slug": "github-status-app.min.json",
         "name": "GitHub Status"
     },
     {
-        "slug": "hello-app.json",
+        "slug": "hello-app.min.json",
         "name": "Hello"
     },
     {
-        "slug": "iot-mailbox-app.json",
+        "slug": "iot-mailbox-app.min.json",
         "name": "IOT Mailbox Simulator"
     },
     {
-        "slug": "json2csv-app.json",
+        "slug": "json2csv-app.min.json",
         "name": "JSON2CSV"
     },
     {
-        "slug": "javascript-validation-with-regex.json",
+        "slug": "javascript-validation-with-regex.min.json",
         "name": "Javascript Validation With Regex"
     },
     {
-        "slug": "key-value-app.json",
+        "slug": "key-value-app.min.json",
         "name": "Key Value"
     },
     {
-        "slug": "lorem-ipsum-generator.json",
+        "slug": "lorem-ipsum-generator.min.json",
         "name": "Lorem Ipsum Generator"
     },
     {
-        "slug": "notes-app.json",
+        "slug": "notes-app.min.json",
         "name": "Notes App"
     },
     {
-        "slug": "pearson-regression-app.json",
+        "slug": "pearson-regression-app.min.json",
         "name": "Pearson Regression"
     },
     {
-        "slug": "pomodoro-clock.json",
+        "slug": "pomodoro-clock.min.json",
         "name": "Pomodoro Clock"
     },
     {
-        "slug": "product-landing-page.json",
+        "slug": "product-landing-page.min.json",
         "name": "Product Landing Page"
     },
     {
-        "slug": "quiz-app.json",
+        "slug": "quiz-app.min.json",
         "name": "Quiz App"
     },
     {
-        "slug": "random-meal-generator.json",
+        "slug": "random-meal-generator.min.json",
         "name": "Random Meal Generator"
     },
     {
-        "slug": "random-number-generator.json",
+        "slug": "random-number-generator.min.json",
         "name": "Random-Number-Generator"
     },
     {
-        "slug": "recipe-app.json",
+        "slug": "recipe-app.min.json",
         "name": "Recipe"
     },
     {
-        "slug": "roman-to-decimal-converter.json",
+        "slug": "roman-to-decimal-converter.min.json",
         "name": "Roman to Decimal numbers Converter"
     },
     {
-        "slug": "slider-design.json",
+        "slug": "slider-design.min.json",
         "name": "Slider Design"
     },
     {
-        "slug": "stopwatch-app.json",
+        "slug": "stopwatch-app.min.json",
         "name": "Stopwatch App"
     },
     {
-        "slug": "true-or-false-app.json",
+        "slug": "true-or-false-app.min.json",
         "name": "TrueOrFalse"
     },
     {
-        "slug": "vigenere-cipher.json",
+        "slug": "vigenere-cipher.min.json",
         "name": "Vigenere Cipher"
     },
     {
-        "slug": "weather-app.json",
+        "slug": "weather-app.min.json",
         "name": "Weather App"
     },
     {
-        "slug": "windchill-app.json",
+        "slug": "windchill-app.min.json",
         "name": "Windchill"
     },
     {
-        "slug": "word-frequency-app.json",
+        "slug": "word-frequency-app.min.json",
         "name": "Word Frequency"
     },
     {
-        "slug": "bit-masks-app.json",
+        "slug": "bit-masks-app.min.json",
         "name": "Bit Masks"
     },
     {
-        "slug": "book-finder-app.json",
+        "slug": "book-finder-app.min.json",
         "name": "Book Finder App"
     },
     {
-        "slug": "calculator-cli.json",
+        "slug": "calculator-cli.min.json",
         "name": "Calculator CLI"
     },
     {
-        "slug": "card-memory-game.json",
+        "slug": "card-memory-game.min.json",
         "name": "Card-Memory-Game"
     },
     {
-        "slug": "charity-finder-app.json",
+        "slug": "charity-finder-app.min.json",
         "name": "Charity Finder"
     },
     {
-        "slug": "chrome-theme-extension.json",
+        "slug": "chrome-theme-extension.min.json",
         "name": "Chrome Theme Extension"
     },
     {
-        "slug": "drawing-app.json",
+        "slug": "drawing-app.min.json",
         "name": "Drawing App"
     },
     {
-        "slug": "emoji-translator-app.json",
+        "slug": "emoji-translator-app.min.json",
         "name": "Emoji Translator"
     },
     {
-        "slug": "flashcards-app.json",
+        "slug": "flashcards-app.min.json",
         "name": "FlashCards"
     },
     {
-        "slug": "flip-art-app.json",
+        "slug": "flip-art-app.min.json",
         "name": "Flip Art"
     },
     {
-        "slug": "game-suggestion-app.json",
+        "slug": "game-suggestion-app.min.json",
         "name": "Game suggestion app"
     },
     {
-        "slug": "github-profiles.json",
+        "slug": "github-profiles.min.json",
         "name": "GitHub Profiles"
     },
     {
-        "slug": "highstriker-game.json",
+        "slug": "highstriker-game.min.json",
         "name": "HighStriker"
     },
     {
-        "slug": "image-scaner.json",
+        "slug": "image-scaner.min.json",
         "name": "Image Scanner"
     },
     {
-        "slug": "markdown-previewer.json",
+        "slug": "markdown-previewer.min.json",
         "name": "Markdown Previewer"
     },
     {
-        "slug": "markdown-table-generator.json",
+        "slug": "markdown-table-generator.min.json",
         "name": "Markdown Table Generator"
     },
     {
-        "slug": "meme-generator-app.json",
+        "slug": "meme-generator-app.min.json",
         "name": "Meme Generator App"
     },
     {
-        "slug": "name-generator.json",
+        "slug": "name-generator.min.json",
         "name": "Name generation using Recurrent Neural Networks"
     },
     {
-        "slug": "password-generator.json",
+        "slug": "password-generator.min.json",
         "name": "Password Generator"
     },
     {
-        "slug": "podcast-directory-app.json",
+        "slug": "podcast-directory-app.min.json",
         "name": "Podcast Directory"
     },
     {
-        "slug": "qrcode-badge-app.json",
+        "slug": "qrcode-badge-app.min.json",
         "name": "QRCode Badge Generator"
     },
     {
-        "slug": "regexp-helper-app.json",
+        "slug": "regexp-helper-app.min.json",
         "name": "Regular Expression Helper"
     },
     {
-        "slug": "sales-db-app.json",
+        "slug": "sales-db-app.min.json",
         "name": "Sales Reciepts"
     },
     {
-        "slug": "simple-online-store.json",
+        "slug": "simple-online-store.min.json",
         "name": "Simple Online Store"
     },
     {
-        "slug": "sports-bracket-generator.json",
+        "slug": "sports-bracket-generator.min.json",
         "name": "Sports Bracket Generator"
     },
     {
-        "slug": "string-art.json",
+        "slug": "string-art.min.json",
         "name": "StringArt"
     },
     {
-        "slug": "this-or-that-game.json",
+        "slug": "this-or-that-game.min.json",
         "name": "This or That Game"
     },
     {
-        "slug": "timezone-slackbot.json",
+        "slug": "timezone-slackbot.min.json",
         "name": "Timezone Slackbot - TZ"
     },
     {
-        "slug": "to-do-app.json",
+        "slug": "to-do-app.min.json",
         "name": "To-Do App"
     },
     {
-        "slug": "typing-practice-app.json",
+        "slug": "typing-practice-app.min.json",
         "name": "Typing Practice"
     },
     {
-        "slug": "voting-app.json",
+        "slug": "voting-app.min.json",
         "name": "Voting App"
     },
     {
-        "slug": "math-editor.json",
+        "slug": "math-editor.min.json",
         "name": "Math Formula Editor"
     },
     {
-        "slug": "battleship-bot.json",
+        "slug": "battleship-bot.min.json",
         "name": "Battleship Bot"
     },
     {
-        "slug": "battleship-game-engine.json",
+        "slug": "battleship-game-engine.min.json",
         "name": "Battleship Game Engine"
     },
     {
-        "slug": "boole-bot-game.json",
+        "slug": "boole-bot-game.min.json",
         "name": "Boole Bots Game"
     },
     {
-        "slug": "bug-race-game.json",
+        "slug": "bug-race-game.min.json",
         "name": "Bug Race"
     },
     {
-        "slug": "calorie-counter-app.json",
+        "slug": "calorie-counter-app.min.json",
         "name": "Calorie Counter"
     },
     {
-        "slug": "chat-app.json",
+        "slug": "chat-app.min.json",
         "name": "Chat App"
     },
     {
-        "slug": "contribution-tracker-app.json",
+        "slug": "contribution-tracker-app.min.json",
         "name": "Contribution Tracker"
     },
     {
-        "slug": "elevator-app.json",
+        "slug": "elevator-app.min.json",
         "name": "Elevator"
     },
     {
-        "slug": "fastfood-app.json",
+        "slug": "fastfood-app.min.json",
         "name": "Fast Food Simulator App"
     },
     {
-        "slug": "github-timeline-app.json",
+        "slug": "github-timeline-app.min.json",
         "name": "GitHub Timeline"
     },
     {
-        "slug": "gittweet-app.json",
+        "slug": "gittweet-app.min.json",
         "name": "GitTweet"
     },
     {
-        "slug": "instagram-clone-app.json",
+        "slug": "instagram-clone-app.min.json",
         "name": "Instagram Clone"
     },
     {
-        "slug": "kudos-slackbot.json",
+        "slug": "kudos-slackbot.min.json",
         "name": "Kudo's Slackbot"
     },
     {
-        "slug": "movie-app.json",
+        "slug": "movie-app.min.json",
         "name": "Movie Database App"
     },
     {
-        "slug": "mypodcast-library-app.json",
+        "slug": "mypodcast-library-app.min.json",
         "name": "My Podcast Library"
     },
     {
-        "slug": "nasa-exoplanet-query.json",
+        "slug": "nasa-exoplanet-query.min.json",
         "name": "NASA Exoplanet Query"
     },
     {
-        "slug": "shell-game.json",
+        "slug": "shell-game.min.json",
         "name": "Shell Game"
     },
     {
-        "slug": "shuffle-deck-app.json",
+        "slug": "shuffle-deck-app.min.json",
         "name": "Shuffle Card Deck"
     },
     {
-        "slug": "slack-archiver.json",
+        "slug": "slack-archiver.min.json",
         "name": "Slack Archiver"
     },
     {
-        "slug": "spellit-app.json",
+        "slug": "spellit-app.min.json",
         "name": "Spell-It"
     },
     {
-        "slug": "survey-app.json",
+        "slug": "survey-app.min.json",
         "name": "Survey App"
     }
 ]
