@@ -1,0 +1,37 @@
+{
+    "title": "Contribution Tracker",
+    "skills": [
+        "HTML5",
+        "CSS3",
+        "JavaScript"
+    ],
+    "description": "In the [Charity Finder](../2-Intermediate/Charity-Finder-App.md) project you created an app to help you locate a charity worthy of your contributions. Once a contribution has been made the goal of the Contribution Tracker app is to track it so to provide users with a record of all contributions for use in monitoring how funds are being directed and to provide records for financial reporting purposes. For example, for tax reporting. ",
+    "level": "hard",
+    "credits": "florinpop17/app-ideas",
+    "checklist": [
+        "User can see a Navigation Bar at the top of each page containing the application name and a \"hamburger\" menu with these option: - Dashboard - Transactions",
+        "User can see a Footer Bar at the bottom of each page containing an About link",
+        "User can click in the transaction date field to display a calendar the date can be selected from rather than manually entering it.",
+        "User can see alternating row background colors in the transaction ledger.",
+        "User can click on a column heading in the transaction ledger to toggle the sort sequence on the values in that column.",
+        "User can see a PDF option near the Transaction Ledger to create a PDF of all transactions (Hint: checkout how this capability can be implemented via",
+        "[Puppeteer](https://github.com/GoogleChrome/puppeteer)).",
+        "Developers may use Vanilla JS, or a framework of their choice (like React,",
+        "VueJS, etc.).",
+        "Developers should not use libraries for calculating and manipulating monetary",
+        "amounts. All calculation and formatting should be done in the language chosen",
+        "to develop the application.",
+        "Developers may use a graphics presentation library or service of their choice,",
+        "like [AMCharts](https://www.amcharts.com/).",
+        "Developers may choose to have transactions persist across sessions using",
+        "either files or databases. Sensitive data, like transactions, must not be",
+        "maintained in local storage. Remember that although you can implement",
+        "protections it is impossible to totally secure browser applications."
+    ],
+    "help": [
+        "N/a",
+        "[How to Handle Monetary Values in Javascript](https://frontstuff.io/how-to-handle-monetary-values-in-javascript)",
+        "[How to Format Number as Currency](https://flaviocopes.com/how-to-format-number-as-currency-javascript/)",
+        "[Mintable (GitHub)](https://github.com/kevinschaich/mintable)"
+    ]
+}
